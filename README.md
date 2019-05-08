@@ -24,7 +24,7 @@ created by <strong>Eclipse Maven.</strong>
 <p><b>Step 2.</b> Add the dependency</p> 
 		
 <pre class="kode code-toolbar  language-css"><code id="depCodeGradle" class=" kode  language-css">	<span class="token selector">dependencies</span> <span class="token punctuation">{</span>
-	        implementation <span class="token string">'com.github.mostafamahmoudabdelaleem:spring-boot:Tag'</span>
+	        implementation <span class="token string">'com.github.mostafamahmoudabdelaleem:spring-boot:1.0'</span>
 	<span class="token punctuation">}</span>
 </code></pre>
                         
